@@ -1,0 +1,5048 @@
+{
+    "took": 192,
+    "timed_out": false,
+    "_shards": {
+        "total": 50,
+        "successful": 50,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 10000,
+            "relation": "gte"
+        },
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-113607:ea0266581-10q_westin.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0002076192"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-42926"
+                    ],
+                    "display_names": [
+                        "Westin Acquisition Corp  (WSTN, WSTNU)  (CIK 0002076192)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-21",
+                    "biz_states": [],
+                    "sics": [
+                        "6770"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-113607",
+                    "film_num": [
+                        "251507968"
+                    ],
+                    "biz_locations": [
+                        "Singapore"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "E9"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763683200000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001193125-25-290256:mesa-20250930.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000810332"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-38626"
+                    ],
+                    "display_names": [
+                        "MESA AIR GROUP INC  (MESA)  (CIK 0000810332)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-21",
+                    "biz_states": [
+                        "AZ"
+                    ],
+                    "sics": [
+                        "4512"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001193125-25-290256",
+                    "film_num": [
+                        "251504405"
+                    ],
+                    "biz_locations": [
+                        "Phoenix, AZ"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763683200000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001628280-25-053577:ffie-20250930.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001805521"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-39395"
+                    ],
+                    "display_names": [
+                        "FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-21",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "3711"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001628280-25-053577",
+                    "film_num": [
+                        "251507886"
+                    ],
+                    "biz_locations": [
+                        "New York, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763683200000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001104659-25-114994:tmb-20250930x10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001860484"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-41283"
+                    ],
+                    "display_names": [
+                        "Relativity Acquisition Corp  (CIK 0001860484)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-21",
+                    "biz_states": [
+                        "NV"
+                    ],
+                    "sics": [
+                        "6770"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001104659-25-114994",
+                    "film_num": [
+                        "251507950"
+                    ],
+                    "biz_locations": [
+                        "Las Vegas, NV"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763683200000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001749723-25-000149:nfe-20250930.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001749723"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-38790"
+                    ],
+                    "display_names": [
+                        "New Fortress Energy Inc.  (NFE)  (CIK 0001749723)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-21",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "4924"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001749723-25-000149",
+                    "film_num": [
+                        "251504453"
+                    ],
+                    "biz_locations": [
+                        "New York, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763683200000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-113605:ea0264689-10q_trailblaz1.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001934945"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-41668"
+                    ],
+                    "display_names": [
+                        "Trailblazer Merger Corp I  (TBMC, TBMCR)  (CIK 0001934945)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-21",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "6770"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-113605",
+                    "film_num": [
+                        "251507955"
+                    ],
+                    "biz_locations": [
+                        "New York, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763683200000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001104659-25-114702:tm2531886d1_10-qa.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0002019804"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-42252"
+                    ],
+                    "display_names": [
+                        "Terrestrial Energy Inc. /DE/  (HOND, IMSR, IMSRW)  (CIK 0002019804)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-21",
+                    "biz_states": [
+                        "NC"
+                    ],
+                    "sics": [
+                        "3443"
+                    ],
+                    "form": "10-Q/A",
+                    "adsh": "0001104659-25-114702",
+                    "film_num": [
+                        "251504419"
+                    ],
+                    "biz_locations": [
+                        "Charlotte, NC"
+                    ],
+                    "file_type": "10-Q/A",
+                    "file_description": "FORM 10-Q/A",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763683200000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024710:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001994214"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-42924"
+                    ],
+                    "display_names": [
+                        "Nomadar Corp.  (NOMA)  (CIK 0001994214)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-21",
+                    "biz_states": [
+                        "TX"
+                    ],
+                    "sics": [
+                        "7900"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024710",
+                    "film_num": [
+                        "251509092"
+                    ],
+                    "biz_locations": [
+                        "Marshall, TX"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763683200000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001393052-25-000078:veev-20251031.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001393052"
+                    ],
+                    "period_ending": "2025-10-31",
+                    "file_num": [
+                        "001-36121"
+                    ],
+                    "display_names": [
+                        "VEEVA SYSTEMS INC  (VEEV)  (CIK 0001393052)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-21",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "7372"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001393052-25-000078",
+                    "film_num": [
+                        "251507970"
+                    ],
+                    "biz_locations": [
+                        "Pleasanton, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763683200000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001781162-25-000041:mnts-20250930.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001781162"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-39128"
+                    ],
+                    "display_names": [
+                        "Momentus Inc.  (MNTS, MNTSW)  (CIK 0001781162)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "3760"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001781162-25-000041",
+                    "film_num": [
+                        "251500353"
+                    ],
+                    "biz_locations": [
+                        "San Jose, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001185185-25-001818:vsee10qa1063025.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001864531"
+                    ],
+                    "period_ending": "2025-06-30",
+                    "file_num": [
+                        "001-41015"
+                    ],
+                    "display_names": [
+                        "VSEE HEALTH, INC.  (VSEE, VSEEW)  (CIK 0001864531)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "8000"
+                    ],
+                    "form": "10-Q/A",
+                    "adsh": "0001185185-25-001818",
+                    "film_num": [
+                        "251503920"
+                    ],
+                    "biz_locations": [
+                        "Boca Raton, FL"
+                    ],
+                    "file_type": "10-Q/A",
+                    "file_description": "FORM 10-Q/A",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001477932-25-008519:tkls_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001429393"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-54219"
+                    ],
+                    "display_names": [
+                        "Trutankless, Inc.  (TKLS)  (CIK 0001429393)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "AZ"
+                    ],
+                    "sics": [
+                        "3630"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001477932-25-008519",
+                    "film_num": [
+                        "251502677"
+                    ],
+                    "biz_locations": [
+                        "Scottsdale, AZ"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001903596-25-000552:kays_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001530746"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "333-177532"
+                    ],
+                    "display_names": [
+                        "Kaya Holdings, Inc.  (KAYS)  (CIK 0001530746)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "2834"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001903596-25-000552",
+                    "film_num": [
+                        "251503146"
+                    ],
+                    "biz_locations": [
+                        "Fort Lauderdale, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": null,
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001327567-25-000035:panw-20251031.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001327567"
+                    ],
+                    "period_ending": "2025-10-31",
+                    "file_num": [
+                        "001-35594"
+                    ],
+                    "display_names": [
+                        "Palo Alto Networks Inc  (PANW)  (CIK 0001327567)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "3577"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001327567-25-000035",
+                    "film_num": [
+                        "251500624"
+                    ],
+                    "biz_locations": [
+                        "Santa Clara, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024365:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000813716"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-49654"
+                    ],
+                    "display_names": [
+                        "CIRTRAN CORP  (CIRX)  (CIK 0000813716)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "NV"
+                    ],
+                    "sics": [
+                        "2080"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024365",
+                    "film_num": [
+                        "251500710"
+                    ],
+                    "biz_locations": [
+                        "Las Vegas, NV"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112830:ea0262556-10q_solidion.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001881551"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-41323"
+                    ],
+                    "display_names": [
+                        "Solidion Technology Inc.  (STI)  (CIK 0001881551)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "TX"
+                    ],
+                    "sics": [
+                        "3690"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112830",
+                    "film_num": [
+                        "251500963"
+                    ],
+                    "biz_locations": [
+                        "Dallas, TX"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112742:ea0265686-10qa1_solidion.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001881551"
+                    ],
+                    "period_ending": "2025-06-30",
+                    "file_num": [
+                        "001-41323"
+                    ],
+                    "display_names": [
+                        "Solidion Technology Inc.  (STI)  (CIK 0001881551)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "TX"
+                    ],
+                    "sics": [
+                        "3690"
+                    ],
+                    "form": "10-Q/A",
+                    "adsh": "0001213900-25-112742",
+                    "film_num": [
+                        "251500334"
+                    ],
+                    "biz_locations": [
+                        "Dallas, TX"
+                    ],
+                    "file_type": "10-Q/A",
+                    "file_description": "AMENDMENT NO. 1 TO FORM 10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001437749-25-035760:adom20250930_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001563568"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-38078"
+                    ],
+                    "display_names": [
+                        "Envirotech Vehicles, Inc.  (EVTV)  (CIK 0001563568)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "3714"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001437749-25-035760",
+                    "film_num": [
+                        "251500357"
+                    ],
+                    "biz_locations": [
+                        "Corona, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001477932-25-008523:aipg_10qa.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001289047"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-50739"
+                    ],
+                    "display_names": [
+                        "AI Technology Group Inc.  (AIPG)  (CIK 0001289047)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "NV"
+                    ],
+                    "sics": [
+                        "3621"
+                    ],
+                    "form": "10-Q/A",
+                    "adsh": "0001477932-25-008523",
+                    "film_num": [
+                        "251503841"
+                    ],
+                    "biz_locations": [
+                        "Reno, NV"
+                    ],
+                    "file_type": "10-Q/A",
+                    "file_description": "FORM 10-Q/A",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024359:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001331421"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-56477"
+                    ],
+                    "display_names": [
+                        "HALLMARK VENTURE GROUP, INC.  (HLLK)  (CIK 0001331421)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "6500"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024359",
+                    "film_num": [
+                        "251500630"
+                    ],
+                    "biz_locations": [
+                        "Escondido, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001017386-25-000148:scth_form10q09302025.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001703157"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-55927"
+                    ],
+                    "display_names": [
+                        "Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "MN"
+                    ],
+                    "sics": [
+                        "3714"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001017386-25-000148",
+                    "film_num": [
+                        "251502029"
+                    ],
+                    "biz_locations": [
+                        "Roseville, MN"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "WY"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001065949-25-000040:gipc-20250930.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001466369"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "333-290608"
+                    ],
+                    "display_names": [
+                        "Global Industry Products, Corp.  (CIK 0001466369)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "NV"
+                    ],
+                    "sics": [
+                        "5110"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001065949-25-000040",
+                    "film_num": [
+                        "251502051"
+                    ],
+                    "biz_locations": [
+                        "Las Vegas, NV"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": null,
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001437749-25-035879:ecda20250930_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001922858"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-41497"
+                    ],
+                    "display_names": [
+                        "ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "MA"
+                    ],
+                    "sics": [
+                        "3711"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001437749-25-035879",
+                    "film_num": [
+                        "251504035"
+                    ],
+                    "biz_locations": [
+                        "Hingham, MA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001477932-25-008502:agtx_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001603345"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-55383"
+                    ],
+                    "display_names": [
+                        "Agentix Corp.  (AGTX)  (CIK 0001603345)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "2836"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001477932-25-008502",
+                    "film_num": [
+                        "251500705"
+                    ],
+                    "biz_locations": [
+                        "Dana Point, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001171843-25-007436:sev20250930_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001840416"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-41066"
+                    ],
+                    "display_names": [
+                        "Sono Group N.V.  (SSM)  (CIK 0001840416)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "2M"
+                    ],
+                    "sics": [
+                        "3674"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001171843-25-007436",
+                    "film_num": [
+                        "251500566"
+                    ],
+                    "biz_locations": [
+                        "Munich, 2M"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "P7"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0000067215-25-000079:dy-20251025.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000067215"
+                    ],
+                    "period_ending": "2025-10-25",
+                    "file_num": [
+                        "001-10613"
+                    ],
+                    "display_names": [
+                        "DYCOM INDUSTRIES INC  (DY)  (CIK 0000067215)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "1623"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0000067215-25-000079",
+                    "film_num": [
+                        "251501248"
+                    ],
+                    "biz_locations": [
+                        "West Palm Beach, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "FL"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001376474-25-000952:xcap-20250930_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001999538"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "814-01672"
+                    ],
+                    "display_names": [
+                        "X1 Capital Inc.  (CIK 0001999538)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "AL"
+                    ],
+                    "sics": [],
+                    "form": "10-Q",
+                    "adsh": "0001376474-25-000952",
+                    "film_num": [
+                        "251502477"
+                    ],
+                    "biz_locations": [
+                        "Fairhope, AL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "X1 CAPITAL INC. - FORM 10-Q SEC FILING",
+                    "inc_states": [
+                        "MD"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024384:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001673481"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-38508"
+                    ],
+                    "display_names": [
+                        "Lottery.com Inc.  (SEGG, LTRYW)  (CIK 0001673481)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "TX"
+                    ],
+                    "sics": [
+                        "7372"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024384",
+                    "film_num": [
+                        "251500930"
+                    ],
+                    "biz_locations": [
+                        "Ft. Worth, TX"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0000878932-25-000007:f10q_equus09302025.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000878932"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "814-00098"
+                    ],
+                    "display_names": [
+                        "EQUUS TOTAL RETURN, INC.  (EQS)  (CIK 0000878932)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "TX"
+                    ],
+                    "sics": [],
+                    "form": "10-Q",
+                    "adsh": "0000878932-25-000007",
+                    "film_num": [
+                        "251501723"
+                    ],
+                    "biz_locations": [
+                        "Houston, TX"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0000896878-25-000048:intu-20251031.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000896878"
+                    ],
+                    "period_ending": "2025-10-31",
+                    "file_num": [
+                        "000-21180"
+                    ],
+                    "display_names": [
+                        "INTUIT INC.  (INTU)  (CIK 0000896878)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "7372"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0000896878-25-000048",
+                    "film_num": [
+                        "251503236"
+                    ],
+                    "biz_locations": [
+                        "Mountain View, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0000701985-25-000035:bbwi-20251101.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000701985"
+                    ],
+                    "period_ending": "2025-11-01",
+                    "file_num": [
+                        "001-08344"
+                    ],
+                    "display_names": [
+                        "Bath & Body Works, Inc.  (BBWI)  (CIK 0000701985)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-20",
+                    "biz_states": [
+                        "OH"
+                    ],
+                    "sics": [
+                        "5990"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0000701985-25-000035",
+                    "film_num": [
+                        "251503279"
+                    ],
+                    "biz_locations": [
+                        "Columbus, OH"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763596800000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001477932-25-008480:ybcn_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001284454"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-56129"
+                    ],
+                    "display_names": [
+                        "Nongfu Shop Digital New Retail Co., Ltd  (NFSN)  (CIK 0001284454)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [],
+                    "sics": [
+                        "3714"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001477932-25-008480",
+                    "film_num": [
+                        "251497593"
+                    ],
+                    "biz_locations": [
+                        "Shanghai"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024320:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001321834"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-36268"
+                    ],
+                    "display_names": [
+                        "Q/C TECHNOLOGIES, INC.  (QCLS)  (CIK 0001321834)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "2835"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024320",
+                    "film_num": [
+                        "251500166"
+                    ],
+                    "biz_locations": [
+                        "New York, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001731122-25-001568:e7018_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001419951"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-35384"
+                    ],
+                    "display_names": [
+                        "Data Storage Corp  (DTST, DTSTW)  (CIK 0001419951)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "7374"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001731122-25-001568",
+                    "film_num": [
+                        "251496718"
+                    ],
+                    "biz_locations": [
+                        "New York, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001784254-25-000037:mdia-20250930.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001784254"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-39029"
+                    ],
+                    "display_names": [
+                        "Mediaco Holding Inc.  (MDIA)  (CIK 0001784254)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "4832"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001784254-25-000037",
+                    "film_num": [
+                        "251499641"
+                    ],
+                    "biz_locations": [
+                        "New York, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "IN"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001437749-25-035731:chuc20250930_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001134765"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-32420"
+                    ],
+                    "display_names": [
+                        "Charlie's Holdings, Inc.  (CHUC)  (CIK 0001134765)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "2833"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001437749-25-035731",
+                    "film_num": [
+                        "251499551"
+                    ],
+                    "biz_locations": [
+                        "Costa Mesa, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024204:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001496690"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-56060"
+                    ],
+                    "display_names": [
+                        "BlueOne Card, Inc.  (BCRD)  (CIK 0001496690)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NV"
+                    ],
+                    "sics": [
+                        "7389"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024204",
+                    "film_num": [
+                        "251498045"
+                    ],
+                    "biz_locations": [
+                        "North Las Vegas, NV"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001477932-25-008471:asft_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001651992"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "333-206764"
+                    ],
+                    "display_names": [
+                        "Appsoft Technologies, Inc.  (ASFT)  (CIK 0001651992)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "7372"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001477932-25-008471",
+                    "film_num": [
+                        "251497204"
+                    ],
+                    "biz_locations": [
+                        "Garden City, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024198:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001420924"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-53336"
+                    ],
+                    "display_names": [
+                        "Adapti, Inc.  (ADTI)  (CIK 0001420924)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "7900"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024198",
+                    "film_num": [
+                        "251498009"
+                    ],
+                    "biz_locations": [
+                        "Brooklyn, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024301:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001803977"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-56453"
+                    ],
+                    "display_names": [
+                        "Limitless X Holdings Inc.  (LIMX)  (CIK 0001803977)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "7990"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024301",
+                    "film_num": [
+                        "251500003"
+                    ],
+                    "biz_locations": [
+                        "Beverly Hills, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024321:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001021917"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-21477"
+                    ],
+                    "display_names": [
+                        "Awaysis Capital, Inc.  (AWCA)  (CIK 0001021917)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "6512"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024321",
+                    "film_num": [
+                        "251500169"
+                    ],
+                    "biz_locations": [
+                        "Miramar, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001683168-25-008535:lseb_i10q-093025.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001888740"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-56443"
+                    ],
+                    "display_names": [
+                        "LSEB Creative Corp.  (LSEB)  (CIK 0001888740)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "WY"
+                    ],
+                    "sics": [
+                        "2320"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001683168-25-008535",
+                    "film_num": [
+                        "251497572"
+                    ],
+                    "biz_locations": [
+                        "Sheridan, WY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "WY"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001683168-25-008543:mosaic_i10q-093025.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000836564"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-22182"
+                    ],
+                    "display_names": [
+                        "Mosaic ImmunoEngineering Inc.  (CPMV)  (CIK 0000836564)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "2836"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001683168-25-008543",
+                    "film_num": [
+                        "251498224"
+                    ],
+                    "biz_locations": [
+                        "Huntington Beach, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q FOR SEPT 2025",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024315:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001937891"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-41574"
+                    ],
+                    "display_names": [
+                        "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "5700"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024315",
+                    "film_num": [
+                        "251500076"
+                    ],
+                    "biz_locations": [
+                        "New York, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "E9"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024173:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001893657"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-56511"
+                    ],
+                    "display_names": [
+                        "Rubber Leaf Inc  (RLEA)  (CIK 0001893657)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "F4"
+                    ],
+                    "sics": [
+                        "3714"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024173",
+                    "film_num": [
+                        "251496714"
+                    ],
+                    "biz_locations": [
+                        "Ningbo, Zhejiang, F4"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001731122-25-001571:e7014_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001553788"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-40471"
+                    ],
+                    "display_names": [
+                        "SPLASH BEVERAGE GROUP, INC.  (SBEV, SBEVW)  (CIK 0001553788)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "2080"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001731122-25-001571",
+                    "film_num": [
+                        "251499537"
+                    ],
+                    "biz_locations": [
+                        "Fort Lauderdale, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024307:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001760903"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-39569"
+                    ],
+                    "display_names": [
+                        "BONK, INC.  (BNKK)  (CIK 0001760903)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "2844"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024307",
+                    "film_num": [
+                        "251500043"
+                    ],
+                    "biz_locations": [
+                        "Jupiter, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001104659-25-114175:tva-20250930x10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0002033991"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-42609"
+                    ],
+                    "display_names": [
+                        "Texas Ventures Acquisition III Corp  (TVA, TVACU, TVACW)  (CIK 0002033991)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "TX"
+                    ],
+                    "sics": [
+                        "6770"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001104659-25-114175",
+                    "film_num": [
+                        "251500130"
+                    ],
+                    "biz_locations": [
+                        "Houston, TX"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "E9"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0002001184-25-000071:pacs-20250930.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0002001184"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-42011"
+                    ],
+                    "display_names": [
+                        "PACS Group, Inc.  (PACS)  (CIK 0002001184)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "UT"
+                    ],
+                    "sics": [
+                        "8051"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0002001184-25-000071",
+                    "film_num": [
+                        "251499395"
+                    ],
+                    "biz_locations": [
+                        "Farmington, UT"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112730:ea0266252-10q_remora.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0002045370"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "814-01897"
+                    ],
+                    "display_names": [
+                        "Remora Capital Corp  (CIK 0002045370)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "TN"
+                    ],
+                    "sics": [],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112730",
+                    "film_num": [
+                        "251500284"
+                    ],
+                    "biz_locations": [
+                        "Nashville, TN"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "MD"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001654954-25-013308:scnd_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000087802"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-06658"
+                    ],
+                    "display_names": [
+                        "SCIENTIFIC INDUSTRIES INC  (SCND)  (CIK 0000087802)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "3826"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001654954-25-013308",
+                    "film_num": [
+                        "251500270"
+                    ],
+                    "biz_locations": [
+                        "Bohemia, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001096906-25-001895:tpia-20250930_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001763329"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-56022"
+                    ],
+                    "display_names": [
+                        "AIBOTICS, INC.  (AIBT)  (CIK 0001763329)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "ID"
+                    ],
+                    "sics": [
+                        "2833"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001096906-25-001895",
+                    "film_num": [
+                        "251498396"
+                    ],
+                    "biz_locations": [
+                        "Heyburn, ID"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "AIBOTICS, INC. - FORM 10-Q SEC FILING",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001477932-25-008494:xeri_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001481504"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-54277"
+                    ],
+                    "display_names": [
+                        "XERIANT, INC.  (XERI)  (CIK 0001481504)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "3721"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001477932-25-008494",
+                    "film_num": [
+                        "251499402"
+                    ],
+                    "biz_locations": [
+                        "Boca Raton, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001091818-25-000165:brvo0930202510q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001444839"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-53505"
+                    ],
+                    "display_names": [
+                        "Bravo Multinational Inc.  (BRVO)  (CIK 0001444839)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "VA"
+                    ],
+                    "sics": [
+                        "7990"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001091818-25-000165",
+                    "film_num": [
+                        "251500157"
+                    ],
+                    "biz_locations": [
+                        "Virginia Beach, VA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QTR. REPORT - SEPT. 30, 2025",
+                    "inc_states": [
+                        "WY"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112602:ea0265253-10q_advanced.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001941029"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-42548"
+                    ],
+                    "display_names": [
+                        "Advanced Biomed Inc.  (ADVB)  (CIK 0001941029)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NV"
+                    ],
+                    "sics": [
+                        "8071"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112602",
+                    "film_num": [
+                        "251499290"
+                    ],
+                    "biz_locations": [
+                        "Reno, NV"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001214659-25-016956:kr11725010q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001081834"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-26119"
+                    ],
+                    "display_names": [
+                        "Kuber Resources Corp  (KUBR)  (CIK 0001081834)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "K3"
+                    ],
+                    "sics": [
+                        "4832"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001214659-25-016956",
+                    "film_num": [
+                        "251500212"
+                    ],
+                    "biz_locations": [
+                        "Admiralty, K3"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": null,
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001140361-25-042736:ef20054986_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0002055879"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-42722"
+                    ],
+                    "display_names": [
+                        "Vendome Acquisition Corp I  (VNME, VNMEU, VNMEW)  (CIK 0002055879)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "UT"
+                    ],
+                    "sics": [
+                        "6770"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001140361-25-042736",
+                    "film_num": [
+                        "251499547"
+                    ],
+                    "biz_locations": [
+                        "Park City, UT"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "E9"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001193805-25-001627:e664983_10q-gulfresources.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000885462"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-34499"
+                    ],
+                    "display_names": [
+                        "GULF RESOURCES, INC.  (GURE)  (CIK 0000885462)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "F4"
+                    ],
+                    "sics": [
+                        "2800"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001193805-25-001627",
+                    "film_num": [
+                        "251499923"
+                    ],
+                    "biz_locations": [
+                        "Shouguang City, Shandong, F4"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": null,
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024256:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000943535"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-30256"
+                    ],
+                    "display_names": [
+                        "WORLD HEALTH ENERGY HOLDINGS, INC.  (WHEN)  (CIK 0000943535)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "7372"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024256",
+                    "film_num": [
+                        "251499478"
+                    ],
+                    "biz_locations": [
+                        "Boca Raton, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001045810-25-000230:nvda-20251026.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001045810"
+                    ],
+                    "period_ending": "2025-10-26",
+                    "file_num": [
+                        "000-23985"
+                    ],
+                    "display_names": [
+                        "NVIDIA CORP  (NVDA)  (CIK 0001045810)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "3674"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001045810-25-000230",
+                    "film_num": [
+                        "251499810"
+                    ],
+                    "biz_locations": [
+                        "Santa Clara, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0002001184-25-000069:pacs-20250331.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0002001184"
+                    ],
+                    "period_ending": "2025-03-31",
+                    "file_num": [
+                        "001-42011"
+                    ],
+                    "display_names": [
+                        "PACS Group, Inc.  (PACS)  (CIK 0002001184)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "UT"
+                    ],
+                    "sics": [
+                        "8051"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0002001184-25-000069",
+                    "film_num": [
+                        "251499333"
+                    ],
+                    "biz_locations": [
+                        "Farmington, UT"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112710:ea0266301-10q_regener.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001760026"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-56010"
+                    ],
+                    "display_names": [
+                        "Regenerative Medical Technology Group Inc.  (RMTG)  (CIK 0001760026)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "5990"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112710",
+                    "film_num": [
+                        "251500154"
+                    ],
+                    "biz_locations": [
+                        "Boca Raton, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001104659-25-114181:ento-20250930x10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001604191"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-37853"
+                    ],
+                    "display_names": [
+                        "Entero Therapeutics, Inc.  (ENTO)  (CIK 0001604191)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "2834"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001104659-25-114181",
+                    "film_num": [
+                        "251500168"
+                    ],
+                    "biz_locations": [
+                        "Boca Raton, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001104659-25-114128:uuu-20250930x10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000102109"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-31747"
+                    ],
+                    "display_names": [
+                        "UNIVERSAL SAFETY PRODUCTS, INC.  (UUU)  (CIK 0000102109)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "MD"
+                    ],
+                    "sics": [
+                        "5065"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001104659-25-114128",
+                    "film_num": [
+                        "251499808"
+                    ],
+                    "biz_locations": [
+                        "Owings Mills, MD"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "MD"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112680:ea0266120-10q_reborn.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001707910"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-41479"
+                    ],
+                    "display_names": [
+                        "Reborn Coffee, Inc.  (REBN)  (CIK 0001707910)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "5812"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112680",
+                    "film_num": [
+                        "251499994"
+                    ],
+                    "biz_locations": [
+                        "Brea, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024241:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001498067"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-55680"
+                    ],
+                    "display_names": [
+                        "CITRINE GLOBAL, CORP.  (CTGL)  (CIK 0001498067)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "L3"
+                    ],
+                    "sics": [
+                        "7372"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024241",
+                    "film_num": [
+                        "251499284"
+                    ],
+                    "biz_locations": [
+                        "Tel Aviv, L3"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001654954-25-013277:qmci_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001101433"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-28599"
+                    ],
+                    "display_names": [
+                        "QUOTEMEDIA INC  (QMCI)  (CIK 0001101433)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "AZ"
+                    ],
+                    "sics": [
+                        "7389"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001654954-25-013277",
+                    "film_num": [
+                        "251498002"
+                    ],
+                    "biz_locations": [
+                        "Fountain Hills, AZ"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024328:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0002030763"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-42530"
+                    ],
+                    "display_names": [
+                        "Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "5122"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024328",
+                    "film_num": [
+                        "251500285"
+                    ],
+                    "biz_locations": [
+                        "Tampa, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001104659-25-113927:kala-20250930x10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001479419"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-38150"
+                    ],
+                    "display_names": [
+                        "KALA BIO, Inc.  (KALA)  (CIK 0001479419)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "MA"
+                    ],
+                    "sics": [
+                        "2834"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001104659-25-113927",
+                    "film_num": [
+                        "251496635"
+                    ],
+                    "biz_locations": [
+                        "Arlington, MA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001903596-25-000549:clnv_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001391426"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-52489"
+                    ],
+                    "display_names": [
+                        "Clean Vision Corp  (CLNV)  (CIK 0001391426)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "2860"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001903596-25-000549",
+                    "film_num": [
+                        "251498889"
+                    ],
+                    "biz_locations": [
+                        "Manhattan Beach, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": null,
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001091818-25-000163:bfnh-20250930_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001310488"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-51074"
+                    ],
+                    "display_names": [
+                        "BIOFORCE NANOSCIENCES HOLDINGS, INC.  (BFNH)  (CIK 0001310488)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "VA"
+                    ],
+                    "sics": [
+                        "3826"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001091818-25-000163",
+                    "film_num": [
+                        "251498050"
+                    ],
+                    "biz_locations": [
+                        "Virginia Beach, VA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QTR. REPORT - SEPTEMBER 30, 2025",
+                    "inc_states": [],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112656:ea0264647-10q_larosa.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001879403"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-41588"
+                    ],
+                    "display_names": [
+                        "La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "6531"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112656",
+                    "film_num": [
+                        "251499753"
+                    ],
+                    "biz_locations": [
+                        "Celebration, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001628280-25-053255:lnza-20250930.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001843724"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-40282"
+                    ],
+                    "display_names": [
+                        "LanzaTech Global, Inc.  (LNZA, LNZAW)  (CIK 0001843724)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "IL"
+                    ],
+                    "sics": [
+                        "2860"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001628280-25-053255",
+                    "film_num": [
+                        "251500268"
+                    ],
+                    "biz_locations": [
+                        "Skokie, IL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112657:ea0265725-10q_cnhealthy.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001901203"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-41898"
+                    ],
+                    "display_names": [
+                        "CN Healthy Food Tech Group Corp.  (UCFI, UCFIW)  (CIK 0001901203)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "2000"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112657",
+                    "film_num": [
+                        "251499751"
+                    ],
+                    "biz_locations": [
+                        "Toluca Lake, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024332:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001865861"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-40981"
+                    ],
+                    "display_names": [
+                        "Cactus Acquisition Corp. 1 Ltd  (CCTSF, CTSUF, CTSWF)  (CIK 0001865861)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NJ"
+                    ],
+                    "sics": [
+                        "6770"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024332",
+                    "film_num": [
+                        "251500293"
+                    ],
+                    "biz_locations": [
+                        "Cranbury, NJ"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "E9"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024235:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001329606"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-41654"
+                    ],
+                    "display_names": [
+                        "Clean Energy Technologies, Inc.  (CETY)  (CIK 0001329606)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "4924"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024235",
+                    "film_num": [
+                        "251499160"
+                    ],
+                    "biz_locations": [
+                        "Irvine, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0000038723-25-000146:fil-20250930.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000038723"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "002-27985"
+                    ],
+                    "display_names": [
+                        "1st FRANKLIN FINANCIAL CORP  (CIK 0000038723)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "GA"
+                    ],
+                    "sics": [
+                        "6141"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0000038723-25-000146",
+                    "film_num": [
+                        "251500300"
+                    ],
+                    "biz_locations": [
+                        "Toccoa, GA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "GA"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112613:ea0260791-10q_finnovate.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001857855"
+                    ],
+                    "period_ending": "2025-03-31",
+                    "file_num": [
+                        "001-41012"
+                    ],
+                    "display_names": [
+                        "Finnovate Acquisition Corp.  (CIK 0001857855)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "DE"
+                    ],
+                    "sics": [
+                        "6770"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112613",
+                    "film_num": [
+                        "251499400"
+                    ],
+                    "biz_locations": [
+                        "Wilmington, DE"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "E9"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001640334-25-002189:aen_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0002033750"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "333-284102"
+                    ],
+                    "display_names": [
+                        "AEN Group Ltd.  (CIK 0002033750)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "A0"
+                    ],
+                    "sics": [
+                        "5960"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001640334-25-002189",
+                    "film_num": [
+                        "251499926"
+                    ],
+                    "biz_locations": [
+                        "Calgary, A0"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024192:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001589149"
+                    ],
+                    "period_ending": "2025-03-31",
+                    "file_num": [
+                        "001-41452"
+                    ],
+                    "display_names": [
+                        "Greenwave Technology Solutions, Inc.  (GWAV)  (CIK 0001589149)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "VA"
+                    ],
+                    "sics": [
+                        "5051"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024192",
+                    "film_num": [
+                        "251497863"
+                    ],
+                    "biz_locations": [
+                        "Chesapeake, VA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112619:ea0263826-10q_cerotherap.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001870404"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-40877"
+                    ],
+                    "display_names": [
+                        "CERO THERAPEUTICS HOLDINGS, INC.  (CERO, CEROW)  (CIK 0001870404)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "2836"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112619",
+                    "film_num": [
+                        "251499465"
+                    ],
+                    "biz_locations": [
+                        "South San Francisco, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001096906-25-001904:cnfn-20250930_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001352952"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-52635"
+                    ],
+                    "display_names": [
+                        "CFN Enterprises Inc.  (CNFN)  (CIK 0001352952)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "MT"
+                    ],
+                    "sics": [
+                        "7389"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001096906-25-001904",
+                    "film_num": [
+                        "251500164"
+                    ],
+                    "biz_locations": [
+                        "Whitefish, MT"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "CFN ENTERPRISES INC. - FORM 10-Q SEC FILING",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001683168-25-008560:wytec_i10q-093025.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001560143"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-39478"
+                    ],
+                    "display_names": [
+                        "WYTEC INTERNATIONAL INC  (WYTC)  (CIK 0001560143)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "TX"
+                    ],
+                    "sics": [
+                        "4822"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001683168-25-008560",
+                    "film_num": [
+                        "251500012"
+                    ],
+                    "biz_locations": [
+                        "San Antonio, TX"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q FOR SEPT 2025",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001140361-25-042744:ef20055363_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0002043766"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-42736"
+                    ],
+                    "display_names": [
+                        "Globa Terra Acquisition Corp  (GTERA, GTERR, GTERU, GTERW)  (CIK 0002043766)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "6770"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001140361-25-042744",
+                    "film_num": [
+                        "251499787"
+                    ],
+                    "biz_locations": [
+                        "Miami, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "E9"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001654954-25-013301:vism_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001082733"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-25753"
+                    ],
+                    "display_names": [
+                        "VISIUM TECHNOLOGIES, INC.  (VISM)  (CIK 0001082733)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "7371"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001654954-25-013301",
+                    "film_num": [
+                        "251499562"
+                    ],
+                    "biz_locations": [
+                        "Fort Lauderdale, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "FL"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001683168-25-008554:stemtech_i10q-093025.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001511820"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "333-172172"
+                    ],
+                    "display_names": [
+                        "Stemtech Corp  (STEK)  (CIK 0001511820)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "5122"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001683168-25-008554",
+                    "film_num": [
+                        "251499655"
+                    ],
+                    "biz_locations": [
+                        "Naples, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q FOR SEP 2025",
+                    "inc_states": [],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024169:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001324759"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-56252"
+                    ],
+                    "display_names": [
+                        "HONG YUAN HOLDING GROUP  (HGYN)  (CIK 0001324759)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [],
+                    "sics": [
+                        "2821"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024169",
+                    "film_num": [
+                        "251496679"
+                    ],
+                    "biz_locations": [
+                        "Chengdu High-tech Zone"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001193125-25-288168:aspi-20250930.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001921865"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-41555"
+                    ],
+                    "display_names": [
+                        "ASP Isotopes Inc.  (ASPI)  (CIK 0001921865)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "DC"
+                    ],
+                    "sics": [
+                        "2890"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001193125-25-288168",
+                    "film_num": [
+                        "251499742"
+                    ],
+                    "biz_locations": [
+                        "Washington, DC"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001640334-25-002180:vrdr_10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001506929"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-55276"
+                    ],
+                    "display_names": [
+                        "VERDE RESOURCES, INC.  (VRDR)  (CIK 0001506929)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "MO"
+                    ],
+                    "sics": [
+                        "1040"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001640334-25-002180",
+                    "film_num": [
+                        "251499405"
+                    ],
+                    "biz_locations": [
+                        "St. Louis, MO"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024286:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001622345"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-37960"
+                    ],
+                    "display_names": [
+                        "Polar Power, Inc.  (POLA)  (CIK 0001622345)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "3690"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024286",
+                    "film_num": [
+                        "251499879"
+                    ],
+                    "biz_locations": [
+                        "Gardena, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0002001184-25-000070:pacs-20250630.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0002001184"
+                    ],
+                    "period_ending": "2025-06-30",
+                    "file_num": [
+                        "001-42011"
+                    ],
+                    "display_names": [
+                        "PACS Group, Inc.  (PACS)  (CIK 0002001184)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "UT"
+                    ],
+                    "sics": [
+                        "8051"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0002001184-25-000070",
+                    "film_num": [
+                        "251499347"
+                    ],
+                    "biz_locations": [
+                        "Farmington, UT"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001731122-25-001574:e7045_10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001358633"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-34861"
+                    ],
+                    "display_names": [
+                        "SENTIENT BRANDS HOLDINGS INC.  (SNBH)  (CIK 0001358633)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "5734"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001731122-25-001574",
+                    "film_num": [
+                        "251500111"
+                    ],
+                    "biz_locations": [
+                        "New York, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001882781-25-000042:c2blockq111425o.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001882781"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-56340"
+                    ],
+                    "display_names": [
+                        "C2 Blockchain, Inc.  (CBLO)  (CIK 0001882781)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "6199"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001882781-25-000042",
+                    "film_num": [
+                        "251499953"
+                    ],
+                    "biz_locations": [
+                        "Miami, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024255:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001688126"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-55726"
+                    ],
+                    "display_names": [
+                        "Crypto Co  (CRCW)  (CIK 0001688126)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "7374"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024255",
+                    "film_num": [
+                        "251499434"
+                    ],
+                    "biz_locations": [
+                        "Malibu, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001493152-25-024258:form10-q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001568969"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-55403"
+                    ],
+                    "display_names": [
+                        "APPYEA, INC  (APYP)  (CIK 0001568969)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "L3"
+                    ],
+                    "sics": [
+                        "7371"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001493152-25-024258",
+                    "film_num": [
+                        "251499488"
+                    ],
+                    "biz_locations": [
+                        "Gan Yavne, L3"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "10-Q",
+                    "inc_states": [
+                        "SD"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112690:ea0264706-10q_allied.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001708341"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-38226"
+                    ],
+                    "display_names": [
+                        "Allied Gaming & Entertainment Inc.  (AGAE)  (CIK 0001708341)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "NY"
+                    ],
+                    "sics": [
+                        "7900"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112690",
+                    "film_num": [
+                        "251500040"
+                    ],
+                    "biz_locations": [
+                        "New York, NY"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001683168-25-008532:kingresources_i10q-093025.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000774415"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-56396"
+                    ],
+                    "display_names": [
+                        "King Resources, Inc.  (KRFG)  (CIK 0000774415)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [],
+                    "sics": [
+                        "3612"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001683168-25-008532",
+                    "film_num": [
+                        "251497202"
+                    ],
+                    "biz_locations": [
+                        "Fo Tan"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q FOR SEP 2025",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001062993-25-016938:form10q.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0000720875"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-12697"
+                    ],
+                    "display_names": [
+                        "DYNATRONICS CORP  (DYNT)  (CIK 0000720875)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "UT"
+                    ],
+                    "sics": [
+                        "3841"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001062993-25-016938",
+                    "film_num": [
+                        "251497120"
+                    ],
+                    "biz_locations": [
+                        "Salt Lake City, UT"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "FORM 10-Q",
+                    "inc_states": [
+                        "UT"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112611:ea0262363-10q_cyngn.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001874097"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "001-40932"
+                    ],
+                    "display_names": [
+                        "Cyngn Inc.  (CYN)  (CIK 0001874097)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "CA"
+                    ],
+                    "sics": [
+                        "7371"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112611",
+                    "film_num": [
+                        "251499403"
+                    ],
+                    "biz_locations": [
+                        "Mountain View, CA"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "DE"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            },
+            {
+                "_index": "edgar_file",
+                "_id": "0001213900-25-112640:ea0265930-10q_remsleep.htm",
+                "_score": null,
+                "_source": {
+                    "ciks": [
+                        "0001412126"
+                    ],
+                    "period_ending": "2025-09-30",
+                    "file_num": [
+                        "000-53450"
+                    ],
+                    "display_names": [
+                        "RemSleep Holdings Inc.  (RMSL)  (CIK 0001412126)"
+                    ],
+                    "xsl": null,
+                    "sequence": 1,
+                    "root_forms": [
+                        "10-Q"
+                    ],
+                    "file_date": "2025-11-19",
+                    "biz_states": [
+                        "FL"
+                    ],
+                    "sics": [
+                        "7200"
+                    ],
+                    "form": "10-Q",
+                    "adsh": "0001213900-25-112640",
+                    "film_num": [
+                        "251499572"
+                    ],
+                    "biz_locations": [
+                        "Clearwater, FL"
+                    ],
+                    "file_type": "10-Q",
+                    "file_description": "QUARTERLY REPORT",
+                    "inc_states": [
+                        "NV"
+                    ],
+                    "items": []
+                },
+                "sort": [
+                    1763510400000
+                ]
+            }
+        ]
+    },
+    "aggregations": {
+        "entity_filter": {
+            "doc_count_error_upper_bound": 200,
+            "sum_other_doc_count": 577373,
+            "buckets": [
+                {
+                    "key": "PowerShares DB Multi-Sector Commodity Trust  (CIK 0001367306)",
+                    "doc_count": 166
+                },
+                {
+                    "key": "Invesco DB Multi-Sector Commodity Trust  (CIK 0001367306)",
+                    "doc_count": 55
+                },
+                {
+                    "key": "AMBAC FINANCIAL GROUP INC  (AMBC)  (CIK 0000874501)",
+                    "doc_count": 31
+                },
+                {
+                    "key": "BOSTON BEER CO INC  (SAM)  (CIK 0000949870)",
+                    "doc_count": 29
+                },
+                {
+                    "key": "AMERICAN REALTY INVESTORS INC  (ARL)  (CIK 0001102238)",
+                    "doc_count": 28
+                },
+                {
+                    "key": "ACADIA REALTY TRUST  (AKR)  (CIK 0000899629)",
+                    "doc_count": 26
+                },
+                {
+                    "key": "ALEXANDERS INC  (ALX)  (CIK 0000003499)",
+                    "doc_count": 26
+                },
+                {
+                    "key": "ALLIANT ENERGY CORP  (LNT)  (CIK 0000352541)",
+                    "doc_count": 26
+                },
+                {
+                    "key": "ADMIRAL FINANCIAL CORP  (CIK 0000828530)",
+                    "doc_count": 25
+                },
+                {
+                    "key": "ALLIANCE RESOURCE PARTNERS LP  (ARLP)  (CIK 0001086600)",
+                    "doc_count": 25
+                },
+                {
+                    "key": "1 800 FLOWERS COM INC  (FLWS)  (CIK 0001084869)",
+                    "doc_count": 24
+                },
+                {
+                    "key": "ABRAXAS PETROLEUM CORP  (CIK 0000867665)",
+                    "doc_count": 24
+                },
+                {
+                    "key": "BASSETT FURNITURE INDUSTRIES INC  (BSET)  (CIK 0000010329)",
+                    "doc_count": 24
+                },
+                {
+                    "key": "BEASLEY BROADCAST GROUP INC  (BBGI)  (CIK 0001099160)",
+                    "doc_count": 24
+                },
+                {
+                    "key": "BENCHMARK ELECTRONICS INC  (BHE)  (CIK 0000863436)",
+                    "doc_count": 24
+                },
+                {
+                    "key": "AKORN INC  (CIK 0000003116)",
+                    "doc_count": 22
+                },
+                {
+                    "key": "ALIGN TECHNOLOGY INC  (ALGN)  (CIK 0001097149)",
+                    "doc_count": 22
+                },
+                {
+                    "key": "AMERICAN FINANCIAL GROUP INC  (AFG, AFGB, AFGC, AFGD, AFGE)  (CIK 0001042046)",
+                    "doc_count": 22
+                },
+                {
+                    "key": "AMETEK INC/  (AME)  (CIK 0001037868)",
+                    "doc_count": 22
+                },
+                {
+                    "key": "ANGIODYNAMICS INC  (ANGO)  (CIK 0001275187)",
+                    "doc_count": 22
+                },
+                {
+                    "key": "ASTRONICS CORP  (ATRO, ATROB)  (CIK 0000008063)",
+                    "doc_count": 22
+                },
+                {
+                    "key": "CADENCE DESIGN SYSTEMS INC  (CDNS)  (CIK 0000813672)",
+                    "doc_count": 22
+                },
+                {
+                    "key": "COMMUNITY TRUST BANCORP INC /KY/  (CTBI)  (CIK 0000350852)",
+                    "doc_count": 22
+                },
+                {
+                    "key": "AMERICAN VANGUARD CORP  (AVD)  (CIK 0000005981)",
+                    "doc_count": 21
+                },
+                {
+                    "key": "ARMSTRONG WORLD INDUSTRIES INC  (AWI)  (CIK 0000007431)",
+                    "doc_count": 21
+                },
+                {
+                    "key": "AURA SYSTEMS INC  (AUSI)  (CIK 0000826253)",
+                    "doc_count": 21
+                },
+                {
+                    "key": "AVNET INC  (AVT)  (CIK 0000008858)",
+                    "doc_count": 21
+                },
+                {
+                    "key": "CAPSTEAD MORTGAGE CORP  (CIK 0000766701)",
+                    "doc_count": 21
+                },
+                {
+                    "key": "TANGER PROPERTIES LTD PARTNERSHIP /NC/  (CIK 0001004036)",
+                    "doc_count": 21
+                },
+                {
+                    "key": "TEXAS INSTRUMENTS INC  (TXN)  (CIK 0000097476)",
+                    "doc_count": 21
+                }
+            ]
+        },
+        "sic_filter": {
+            "doc_count_error_upper_bound": 2090,
+            "sum_other_doc_count": 288022,
+            "buckets": [
+                {
+                    "key": "2834",
+                    "doc_count": 28337
+                },
+                {
+                    "key": "6798",
+                    "doc_count": 21566
+                },
+                {
+                    "key": "6022",
+                    "doc_count": 20665
+                },
+                {
+                    "key": "7372",
+                    "doc_count": 17930
+                },
+                {
+                    "key": "6770",
+                    "doc_count": 17833
+                },
+                {
+                    "key": "1311",
+                    "doc_count": 15683
+                },
+                {
+                    "key": "7389",
+                    "doc_count": 14000
+                },
+                {
+                    "key": "6021",
+                    "doc_count": 12096
+                },
+                {
+                    "key": "3674",
+                    "doc_count": 9236
+                },
+                {
+                    "key": "3841",
+                    "doc_count": 9078
+                },
+                {
+                    "key": "6035",
+                    "doc_count": 8468
+                },
+                {
+                    "key": "2836",
+                    "doc_count": 8229
+                },
+                {
+                    "key": "6500",
+                    "doc_count": 7708
+                },
+                {
+                    "key": "1000",
+                    "doc_count": 7072
+                },
+                {
+                    "key": "4911",
+                    "doc_count": 6353
+                },
+                {
+                    "key": "6221",
+                    "doc_count": 5856
+                },
+                {
+                    "key": "6331",
+                    "doc_count": 5591
+                },
+                {
+                    "key": "5812",
+                    "doc_count": 5465
+                },
+                {
+                    "key": "7374",
+                    "doc_count": 5168
+                },
+                {
+                    "key": "7373",
+                    "doc_count": 5074
+                },
+                {
+                    "key": "4813",
+                    "doc_count": 4861
+                },
+                {
+                    "key": "8742",
+                    "doc_count": 4053
+                },
+                {
+                    "key": "3845",
+                    "doc_count": 3944
+                },
+                {
+                    "key": "1040",
+                    "doc_count": 3827
+                },
+                {
+                    "key": "3663",
+                    "doc_count": 3749
+                },
+                {
+                    "key": "3714",
+                    "doc_count": 3660
+                },
+                {
+                    "key": "7370",
+                    "doc_count": 3652
+                },
+                {
+                    "key": "7371",
+                    "doc_count": 3457
+                },
+                {
+                    "key": "2860",
+                    "doc_count": 3330
+                },
+                {
+                    "key": "6311",
+                    "doc_count": 3180
+                }
+            ]
+        },
+        "biz_states_filter": {
+            "doc_count_error_upper_bound": 900,
+            "sum_other_doc_count": 61251,
+            "buckets": [
+                {
+                    "key": "CA",
+                    "doc_count": 88864
+                },
+                {
+                    "key": "NY",
+                    "doc_count": 57086
+                },
+                {
+                    "key": "TX",
+                    "doc_count": 48937
+                },
+                {
+                    "key": "FL",
+                    "doc_count": 29608
+                },
+                {
+                    "key": "MA",
+                    "doc_count": 23820
+                },
+                {
+                    "key": "NJ",
+                    "doc_count": 21341
+                },
+                {
+                    "key": "PA",
+                    "doc_count": 21219
+                },
+                {
+                    "key": "IL",
+                    "doc_count": 19184
+                },
+                {
+                    "key": "CO",
+                    "doc_count": 14690
+                },
+                {
+                    "key": "OH",
+                    "doc_count": 13676
+                },
+                {
+                    "key": "NV",
+                    "doc_count": 12702
+                },
+                {
+                    "key": "GA",
+                    "doc_count": 12457
+                },
+                {
+                    "key": "VA",
+                    "doc_count": 12450
+                },
+                {
+                    "key": "CT",
+                    "doc_count": 10848
+                },
+                {
+                    "key": "MN",
+                    "doc_count": 10771
+                },
+                {
+                    "key": "WA",
+                    "doc_count": 10254
+                },
+                {
+                    "key": "MD",
+                    "doc_count": 9433
+                },
+                {
+                    "key": "NC",
+                    "doc_count": 9210
+                },
+                {
+                    "key": "MI",
+                    "doc_count": 8337
+                },
+                {
+                    "key": "AZ",
+                    "doc_count": 7705
+                },
+                {
+                    "key": "F4",
+                    "doc_count": 7586
+                },
+                {
+                    "key": "UT",
+                    "doc_count": 6785
+                },
+                {
+                    "key": "TN",
+                    "doc_count": 6410
+                },
+                {
+                    "key": "MO",
+                    "doc_count": 6397
+                },
+                {
+                    "key": "IN",
+                    "doc_count": 6392
+                },
+                {
+                    "key": "WI",
+                    "doc_count": 5825
+                },
+                {
+                    "key": "A1",
+                    "doc_count": 4709
+                },
+                {
+                    "key": "OK",
+                    "doc_count": 4319
+                },
+                {
+                    "key": "A6",
+                    "doc_count": 4167
+                },
+                {
+                    "key": "OR",
+                    "doc_count": 3646
+                }
+            ]
+        },
+        "form_filter": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+                {
+                    "key": "10-Q",
+                    "doc_count": 561527
+                }
+            ]
+        }
+    },
+    "query": {
+        "_source": {
+            "exclude": [
+                "doc_text"
+            ]
+        },
+        "query": {
+            "bool": {
+                "must": [],
+                "must_not": [],
+                "should": [],
+                "filter": [
+                    {
+                        "terms": {
+                            "root_forms": [
+                                "10-Q"
+                            ]
+                        }
+                    },
+                    {
+                        "term": {
+                            "sequence": {
+                                "value": 1
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "from": 0,
+        "size": 100,
+        "aggregations": {
+            "form_filter": {
+                "terms": {
+                    "field": "root_forms",
+                    "size": 30
+                }
+            },
+            "entity_filter": {
+                "terms": {
+                    "field": "display_names.raw",
+                    "size": 30
+                }
+            },
+            "sic_filter": {
+                "terms": {
+                    "field": "sics",
+                    "size": 30
+                }
+            },
+            "biz_states_filter": {
+                "terms": {
+                    "field": "biz_states",
+                    "size": 30
+                }
+            }
+        },
+        "sort": [
+            {
+                "file_date": {
+                    "order": "desc"
+                }
+            }
+        ]
+    }
+}
